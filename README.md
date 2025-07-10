@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/incomestreamsurfer-chatgpt-native-image-gen-mcp-badge.png)](https://mseep.ai/app/incomestreamsurfer-chatgpt-native-image-gen-mcp)
+
 # OpenAI Image Generation MCP Server
 
 This project implements an MCP (Model Context Protocol) server that provides tools for generating and editing images using OpenAI's `gpt-image-1` model via the official Python SDK.
